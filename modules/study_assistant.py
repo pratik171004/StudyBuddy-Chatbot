@@ -1,6 +1,7 @@
 import json
 import random
 from sklearn.feature_extraction.text import TfidfVectorizer
+from modules.study_assistant import some_function  
 from sklearn.metrics.pairwise import cosine_similarity
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
