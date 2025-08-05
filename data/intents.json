@@ -1,0 +1,2224 @@
+{
+  "intents": [
+    {
+      "tag": "time_complexity",
+      "patterns": [
+        "How does time complexity work?",
+        "Explain time complexity",
+        "What is time complexity in Python?"
+      ],
+      "responses": [
+        "Time complexity is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Time complexity allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "linked_list",
+      "patterns": [
+        "Can you define linked list?",
+        "Explain linked list",
+        "What is linked list in Python?"
+      ],
+      "responses": [
+        "Linked list is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Linked list allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "closures",
+      "patterns": [
+        "Can you define closures?",
+        "How does closures work?",
+        "What is closures in Python?"
+      ],
+      "responses": [
+        "Closures is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Closures allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "multithreading",
+      "patterns": [
+        "Explain multithreading",
+        "How does multithreading work?",
+        "What is multithreading in Python?"
+      ],
+      "responses": [
+        "Multithreading is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Multithreading allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "pip",
+      "patterns": [
+        "Explain pip",
+        "What is pip in Python?",
+        "Can you define pip?"
+      ],
+      "responses": [
+        "Pip is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Pip allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "memory_profiling",
+      "patterns": [
+        "How does memory profiling work?",
+        "What is memory profiling in Python?",
+        "Can you define memory profiling?"
+      ],
+      "responses": [
+        "Memory profiling is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Memory profiling allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "pickle",
+      "patterns": [
+        "How does pickle work?",
+        "Explain pickle",
+        "What is pickle in Python?"
+      ],
+      "responses": [
+        "Pickle is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Pickle allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "logging",
+      "patterns": [
+        "Can you define logging?",
+        "How does logging work?",
+        "What is logging in Python?"
+      ],
+      "responses": [
+        "Logging is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Logging allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "loops",
+      "patterns": [
+        "Explain loops",
+        "What is loops in Python?",
+        "Can you define loops?"
+      ],
+      "responses": [
+        "Loops is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Loops allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "debugging",
+      "patterns": [
+        "Can you define debugging?",
+        "How does debugging work?",
+        "What is debugging in Python?"
+      ],
+      "responses": [
+        "Debugging is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Debugging allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "sql_in_python",
+      "patterns": [
+        "Explain sql in python",
+        "How does sql in python work?",
+        "Can you define sql in python?"
+      ],
+      "responses": [
+        "Sql in python is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Sql in python allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "api_calls",
+      "patterns": [
+        "What is api calls in Python?",
+        "Explain api calls",
+        "How does api calls work?"
+      ],
+      "responses": [
+        "Api calls is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Api calls allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "zip",
+      "patterns": [
+        "Explain zip",
+        "Can you define zip?",
+        "What is zip in Python?"
+      ],
+      "responses": [
+        "Zip is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Zip allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "regex",
+      "patterns": [
+        "How does regex work?",
+        "What is regex in Python?",
+        "Explain regex"
+      ],
+      "responses": [
+        "Regex is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Regex allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "format_method",
+      "patterns": [
+        "Can you define format method?",
+        "How does format method work?",
+        "Explain format method"
+      ],
+      "responses": [
+        "Format method is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Format method allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "string_methods",
+      "patterns": [
+        "How does string methods work?",
+        "Explain string methods",
+        "Can you define string methods?"
+      ],
+      "responses": [
+        "String methods is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, String methods allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "async",
+      "patterns": [
+        "What is async in Python?",
+        "Explain async",
+        "Can you define async?"
+      ],
+      "responses": [
+        "Async is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Async allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "context_managers",
+      "patterns": [
+        "Can you define context managers?",
+        "How does context managers work?",
+        "What is context managers in Python?"
+      ],
+      "responses": [
+        "Context managers is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Context managers allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "enumerate",
+      "patterns": [
+        "How does enumerate work?",
+        "Explain enumerate",
+        "Can you define enumerate?"
+      ],
+      "responses": [
+        "Enumerate is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Enumerate allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "json",
+      "patterns": [
+        "Can you define json?",
+        "What is json in Python?",
+        "Explain json"
+      ],
+      "responses": [
+        "Json is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Json allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "profiling",
+      "patterns": [
+        "Explain profiling",
+        "What is profiling in Python?",
+        "How does profiling work?"
+      ],
+      "responses": [
+        "Profiling is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Profiling allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "PEP8",
+      "patterns": [
+        "What is PEP8 in Python?",
+        "Can you define PEP8?",
+        "How does PEP8 work?"
+      ],
+      "responses": [
+        "Pep8 is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Pep8 allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "scopes",
+      "patterns": [
+        "Explain scopes",
+        "What is scopes in Python?",
+        "How does scopes work?"
+      ],
+      "responses": [
+        "Scopes is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Scopes allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "unicode",
+      "patterns": [
+        "How does unicode work?",
+        "Explain unicode",
+        "Can you define unicode?"
+      ],
+      "responses": [
+        "Unicode is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Unicode allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "unittest",
+      "patterns": [
+        "Can you define unittest?",
+        "What is unittest in Python?",
+        "How does unittest work?"
+      ],
+      "responses": [
+        "Unittest is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Unittest allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "assertions",
+      "patterns": [
+        "What is assertions in Python?",
+        "Can you define assertions?",
+        "How does assertions work?"
+      ],
+      "responses": [
+        "Assertions is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Assertions allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "selenium",
+      "patterns": [
+        "How does selenium work?",
+        "Explain selenium",
+        "Can you define selenium?"
+      ],
+      "responses": [
+        "Selenium is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Selenium allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "global_vs_local",
+      "patterns": [
+        "Can you define global vs local?",
+        "How does global vs local work?",
+        "What is global vs local in Python?"
+      ],
+      "responses": [
+        "Global vs local is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Global vs local allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "comprehensions",
+      "patterns": [
+        "Explain comprehensions",
+        "What is comprehensions in Python?",
+        "How does comprehensions work?"
+      ],
+      "responses": [
+        "Comprehensions is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Comprehensions allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "tuples",
+      "patterns": [
+        "How does tuples work?",
+        "What is tuples in Python?",
+        "Can you define tuples?"
+      ],
+      "responses": [
+        "Tuples is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Tuples allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "garbage_collection",
+      "patterns": [
+        "Explain garbage collection",
+        "How does garbage collection work?",
+        "What is garbage collection in Python?"
+      ],
+      "responses": [
+        "Garbage collection is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Garbage collection allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "eval",
+      "patterns": [
+        "Explain eval",
+        "Can you define eval?",
+        "What is eval in Python?"
+      ],
+      "responses": [
+        "Eval is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Eval allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "multiprocessing",
+      "patterns": [
+        "Can you define multiprocessing?",
+        "How does multiprocessing work?",
+        "Explain multiprocessing"
+      ],
+      "responses": [
+        "Multiprocessing is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Multiprocessing allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "best_practices",
+      "patterns": [
+        "Can you define best practices?",
+        "How does best practices work?",
+        "What is best practices in Python?"
+      ],
+      "responses": [
+        "Best practices is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Best practices allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "lambda",
+      "patterns": [
+        "How does lambda work?",
+        "What is lambda in Python?",
+        "Explain lambda"
+      ],
+      "responses": [
+        "Lambda is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Lambda allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "stack",
+      "patterns": [
+        "Explain stack",
+        "Can you define stack?",
+        "What is stack in Python?"
+      ],
+      "responses": [
+        "Stack is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Stack allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "binary_search",
+      "patterns": [
+        "Can you define binary search?",
+        "Explain binary search",
+        "How does binary search work?"
+      ],
+      "responses": [
+        "Binary search is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Binary search allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "sys",
+      "patterns": [
+        "What is sys in Python?",
+        "Explain sys",
+        "How does sys work?"
+      ],
+      "responses": [
+        "Sys is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Sys allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "data_types",
+      "patterns": [
+        "How does data types work?",
+        "Explain data types",
+        "Can you define data types?"
+      ],
+      "responses": [
+        "Data types is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Data types allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "csv",
+      "patterns": [
+        "How does csv work?",
+        "Can you define csv?",
+        "Explain csv"
+      ],
+      "responses": [
+        "Csv is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Csv allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "sets",
+      "patterns": [
+        "Can you define sets?",
+        "How does sets work?",
+        "Explain sets"
+      ],
+      "responses": [
+        "Sets is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Sets allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "reduce",
+      "patterns": [
+        "What is reduce in Python?",
+        "How does reduce work?",
+        "Explain reduce"
+      ],
+      "responses": [
+        "Reduce is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Reduce allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "web_scraping",
+      "patterns": [
+        "How does web scraping work?",
+        "What is web scraping in Python?",
+        "Explain web scraping"
+      ],
+      "responses": [
+        "Web scraping is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Web scraping allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "modules",
+      "patterns": [
+        "What is modules in Python?",
+        "How does modules work?",
+        "Can you define modules?"
+      ],
+      "responses": [
+        "Modules is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Modules allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "command_line_args",
+      "patterns": [
+        "Explain command line args",
+        "How does command line args work?",
+        "What is command line args in Python?"
+      ],
+      "responses": [
+        "Command line args is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Command line args allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "argparse",
+      "patterns": [
+        "How does argparse work?",
+        "Explain argparse",
+        "Can you define argparse?"
+      ],
+      "responses": [
+        "Argparse is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Argparse allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "dictionaries",
+      "patterns": [
+        "Explain dictionaries",
+        "How does dictionaries work?",
+        "Can you define dictionaries?"
+      ],
+      "responses": [
+        "Dictionaries is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Dictionaries allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "raw_strings",
+      "patterns": [
+        "Can you define raw strings?",
+        "What is raw strings in Python?",
+        "How does raw strings work?"
+      ],
+      "responses": [
+        "Raw strings is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Raw strings allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "scikit_learn",
+      "patterns": [
+        "How does scikit learn work?",
+        "Can you define scikit learn?",
+        "Explain scikit learn"
+      ],
+      "responses": [
+        "Scikit learn is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Scikit learn allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "tree",
+      "patterns": [
+        "Explain tree",
+        "What is tree in Python?",
+        "Can you define tree?"
+      ],
+      "responses": [
+        "Tree is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Tree allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "requests",
+      "patterns": [
+        "What is requests in Python?",
+        "How does requests work?",
+        "Can you define requests?"
+      ],
+      "responses": [
+        "Requests is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Requests allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "docstrings",
+      "patterns": [
+        "Can you define docstrings?",
+        "What is docstrings in Python?",
+        "How does docstrings work?"
+      ],
+      "responses": [
+        "Docstrings is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Docstrings allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "searching",
+      "patterns": [
+        "What is searching in Python?",
+        "Can you define searching?",
+        "How does searching work?"
+      ],
+      "responses": [
+        "Searching is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Searching allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "pytest",
+      "patterns": [
+        "Explain pytest",
+        "How does pytest work?",
+        "What is pytest in Python?"
+      ],
+      "responses": [
+        "Pytest is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Pytest allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "type_casting",
+      "patterns": [
+        "How does type casting work?",
+        "What is type casting in Python?",
+        "Can you define type casting?"
+      ],
+      "responses": [
+        "Type casting is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Type casting allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "polymorphism",
+      "patterns": [
+        "Can you define polymorphism?",
+        "How does polymorphism work?",
+        "What is polymorphism in Python?"
+      ],
+      "responses": [
+        "Polymorphism is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Polymorphism allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "map",
+      "patterns": [
+        "What is map in Python?",
+        "Explain map",
+        "How does map work?"
+      ],
+      "responses": [
+        "Map is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Map allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "f_strings",
+      "patterns": [
+        "Explain f strings",
+        "What is f strings in Python?",
+        "Can you define f strings?"
+      ],
+      "responses": [
+        "F strings is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, F strings allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "exceptions",
+      "patterns": [
+        "Can you define exceptions?",
+        "What is exceptions in Python?",
+        "Explain exceptions"
+      ],
+      "responses": [
+        "Exceptions is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Exceptions allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "bfs",
+      "patterns": [
+        "Explain bfs",
+        "How does bfs work?",
+        "Can you define bfs?"
+      ],
+      "responses": [
+        "Bfs is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Bfs allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "memory_management",
+      "patterns": [
+        "Can you define memory management?",
+        "Explain memory management",
+        "How does memory management work?"
+      ],
+      "responses": [
+        "Memory management is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Memory management allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "trie",
+      "patterns": [
+        "How does trie work?",
+        "Can you define trie?",
+        "Explain trie"
+      ],
+      "responses": [
+        "Trie is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Trie allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "classes",
+      "patterns": [
+        "How does classes work?",
+        "Explain classes",
+        "Can you define classes?"
+      ],
+      "responses": [
+        "Classes is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Classes allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "math",
+      "patterns": [
+        "Can you define math?",
+        "Explain math",
+        "What is math in Python?"
+      ],
+      "responses": [
+        "Math is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Math allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "pandas",
+      "patterns": [
+        "How does pandas work?",
+        "Can you define pandas?",
+        "Explain pandas"
+      ],
+      "responses": [
+        "Pandas is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Pandas allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "interview_questions",
+      "patterns": [
+        "What is interview questions in Python?",
+        "Explain interview questions",
+        "How does interview questions work?"
+      ],
+      "responses": [
+        "Interview questions is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Interview questions allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "compile",
+      "patterns": [
+        "Explain compile",
+        "How does compile work?",
+        "What is compile in Python?"
+      ],
+      "responses": [
+        "Compile is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Compile allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "flask",
+      "patterns": [
+        "How does flask work?",
+        "What is flask in Python?",
+        "Can you define flask?"
+      ],
+      "responses": [
+        "Flask is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Flask allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "slice",
+      "patterns": [
+        "How does slice work?",
+        "Can you define slice?",
+        "What is slice in Python?"
+      ],
+      "responses": [
+        "Slice is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Slice allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "graph",
+      "patterns": [
+        "Can you define graph?",
+        "How does graph work?",
+        "Explain graph"
+      ],
+      "responses": [
+        "Graph is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Graph allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "filter",
+      "patterns": [
+        "What is filter in Python?",
+        "Explain filter",
+        "Can you define filter?"
+      ],
+      "responses": [
+        "Filter is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Filter allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "generators",
+      "patterns": [
+        "Explain generators",
+        "Can you define generators?",
+        "How does generators work?"
+      ],
+      "responses": [
+        "Generators is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Generators allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "performance",
+      "patterns": [
+        "How does performance work?",
+        "Can you define performance?",
+        "Explain performance"
+      ],
+      "responses": [
+        "Performance is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Performance allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "random",
+      "patterns": [
+        "How does random work?",
+        "Explain random",
+        "What is random in Python?"
+      ],
+      "responses": [
+        "Random is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Random allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "annotations",
+      "patterns": [
+        "What is annotations in Python?",
+        "Explain annotations",
+        "Can you define annotations?"
+      ],
+      "responses": [
+        "Annotations is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Annotations allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "oop_vs_fp",
+      "patterns": [
+        "What is oop vs fp in Python?",
+        "Explain oop vs fp",
+        "How does oop vs fp work?"
+      ],
+      "responses": [
+        "Oop vs fp is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Oop vs fp allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "seaborn",
+      "patterns": [
+        "Explain seaborn",
+        "Can you define seaborn?",
+        "What is seaborn in Python?"
+      ],
+      "responses": [
+        "Seaborn is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Seaborn allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "lists",
+      "patterns": [
+        "Can you define lists?",
+        "Explain lists",
+        "What is lists in Python?"
+      ],
+      "responses": [
+        "Lists is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Lists allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "inheritance",
+      "patterns": [
+        "Explain inheritance",
+        "Can you define inheritance?",
+        "How does inheritance work?"
+      ],
+      "responses": [
+        "Inheritance is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Inheritance allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "variables",
+      "patterns": [
+        "Can you define variables?",
+        "How does variables work?",
+        "What is variables in Python?"
+      ],
+      "responses": [
+        "Variables is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Variables allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "beautifulsoup",
+      "patterns": [
+        "Can you define beautifulsoup?",
+        "Explain beautifulsoup",
+        "How does beautifulsoup work?"
+      ],
+      "responses": [
+        "Beautifulsoup is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Beautifulsoup allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "heap",
+      "patterns": [
+        "Can you define heap?",
+        "Explain heap",
+        "What is heap in Python?"
+      ],
+      "responses": [
+        "Heap is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Heap allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "dfs",
+      "patterns": [
+        "Can you define dfs?",
+        "What is dfs in Python?",
+        "Explain dfs"
+      ],
+      "responses": [
+        "Dfs is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Dfs allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "iterators",
+      "patterns": [
+        "How does iterators work?",
+        "Can you define iterators?",
+        "What is iterators in Python?"
+      ],
+      "responses": [
+        "Iterators is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Iterators allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "exec",
+      "patterns": [
+        "Explain exec",
+        "What is exec in Python?",
+        "How does exec work?"
+      ],
+      "responses": [
+        "Exec is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Exec allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "functions",
+      "patterns": [
+        "Can you define functions?",
+        "What is functions in Python?",
+        "Explain functions"
+      ],
+      "responses": [
+        "Functions is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Functions allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "typing",
+      "patterns": [
+        "Can you define typing?",
+        "Explain typing",
+        "How does typing work?"
+      ],
+      "responses": [
+        "Typing is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Typing allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "numpy",
+      "patterns": [
+        "Can you define numpy?",
+        "Explain numpy",
+        "What is numpy in Python?"
+      ],
+      "responses": [
+        "Numpy is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Numpy allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "queue",
+      "patterns": [
+        "Explain queue",
+        "How does queue work?",
+        "Can you define queue?"
+      ],
+      "responses": [
+        "Queue is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Queue allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "sqlite3",
+      "patterns": [
+        "Explain sqlite3",
+        "Can you define sqlite3?",
+        "How does sqlite3 work?"
+      ],
+      "responses": [
+        "Sqlite3 is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Sqlite3 allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "virtualenv",
+      "patterns": [
+        "Can you define virtualenv?",
+        "How does virtualenv work?",
+        "Explain virtualenv"
+      ],
+      "responses": [
+        "Virtualenv is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Virtualenv allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "file_io",
+      "patterns": [
+        "How does file io work?",
+        "Explain file io",
+        "What is file io in Python?"
+      ],
+      "responses": [
+        "File io is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, File io allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "django",
+      "patterns": [
+        "Can you define django?",
+        "Explain django",
+        "How does django work?"
+      ],
+      "responses": [
+        "Django is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Django allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "os",
+      "patterns": [
+        "How does os work?",
+        "Can you define os?",
+        "Explain os"
+      ],
+      "responses": [
+        "Os is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Os allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "matplotlib",
+      "patterns": [
+        "Explain matplotlib",
+        "What is matplotlib in Python?",
+        "How does matplotlib work?"
+      ],
+      "responses": [
+        "Matplotlib is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Matplotlib allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "bitwise_ops",
+      "patterns": [
+        "What is bitwise ops in Python?",
+        "Explain bitwise ops",
+        "Can you define bitwise ops?"
+      ],
+      "responses": [
+        "Bitwise ops is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Bitwise ops allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "venv",
+      "patterns": [
+        "What is venv in Python?",
+        "How does venv work?",
+        "Explain venv"
+      ],
+      "responses": [
+        "Venv is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Venv allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "recursion",
+      "patterns": [
+        "What is recursion in Python?",
+        "How does recursion work?",
+        "Can you define recursion?"
+      ],
+      "responses": [
+        "Recursion is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Recursion allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "decorators",
+      "patterns": [
+        "Can you define decorators?",
+        "How does decorators work?",
+        "What is decorators in Python?"
+      ],
+      "responses": [
+        "Decorators is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Decorators allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "sorting",
+      "patterns": [
+        "Can you define sorting?",
+        "How does sorting work?",
+        "Explain sorting"
+      ],
+      "responses": [
+        "Sorting is a key concept in Python that helps in processing data or executing logic.",
+        "In Python, Sorting allows you to perform tasks or organize code efficiently."
+      ]
+    },
+    {
+      "tag": "time_complexity",
+      "patterns": [
+        "time complexity",
+        "Explain time complexity",
+        "What is time complexity?"
+        
+      ],
+      "responses": [
+        "Time complexity helps evaluate the performance of an algorithm based on input size."
+      ]
+    },
+    {
+      "tag": "space_complexity",
+      "patterns": [
+        "space complexity",
+        "Explain space complexity",
+        "What is space complexity?"
+      ],
+      "responses": [
+        "Space complexity refers to the memory required by an algorithm."
+      ]
+    },
+    {
+      "tag": "recursion",
+      "patterns": [
+        "recursion",
+        "Explain recursion",
+        "recursive function"
+      ],
+      "responses": [
+        "Recursion is a function calling itself to solve smaller instances of a problem."
+      ]
+    },
+    {
+      "tag": "stack",
+      "patterns": [
+        "stack",
+        "Explain stack",
+        "LIFO"
+      ],
+      "responses": [
+        "A stack is a LIFO data structure where elements are added/removed from the top."
+      ]
+    },
+    {
+      "tag": "queue",
+      "patterns": [
+        "queue",
+        "Explain queue",
+        "FIFO"
+      ],
+      "responses": [
+        "A queue is a FIFO data structure where elements are added at rear and removed from front."
+      ]
+    },
+    {
+      "tag": "linked_list",
+      "patterns": [
+        "linked list",
+        "Explain linked list",
+        "singly linked list"
+      ],
+      "responses": [
+        "A linked list is a linear data structure of nodes where each node points to the next."
+      ]
+    },
+    {
+      "tag": "array",
+      "patterns": [
+        "array",
+        "Explain array",
+        "what is an array"
+      ],
+      "responses": [
+        "An array is a collection of items stored at contiguous memory locations."
+      ]
+    },
+    {
+      "tag": "binary_search",
+      "patterns": [
+        "binary search",
+        "how binary search works"
+      ],
+      "responses": [
+        "Binary search splits the array in half and searches recursively. Time complexity is O(log n)."
+      ]
+    },
+    {
+      "tag": "bubble_sort",
+      "patterns": [
+        "bubble sort",
+        "Explain bubble sort"
+      ],
+      "responses": [
+        "Bubble sort repeatedly swaps adjacent elements if they are in the wrong order."
+      ]
+    },
+    {
+      "tag": "insertion_sort",
+      "patterns": [
+        "insertion sort",
+        "Explain insertion sort"
+      ],
+      "responses": [
+        "Insertion sort builds the sorted array one element at a time."
+      ]
+    },
+    {
+      "tag": "selection_sort",
+      "patterns": [
+        "selection sort",
+        "Explain selection sort"
+      ],
+      "responses": [
+        "Selection sort repeatedly selects the minimum element from unsorted part."
+      ]
+    },
+    {
+      "tag": "merge_sort",
+      "patterns": [
+        "merge sort",
+        "Explain merge sort"
+      ],
+      "responses": [
+        "Merge sort is a divide-and-conquer algorithm with O(n log n) time complexity."
+      ]
+    },
+    {
+      "tag": "quick_sort",
+      "patterns": [
+        "quick sort",
+        "Explain quick sort"
+      ],
+      "responses": [
+        "Quick sort selects a pivot and partitions the array. Average time complexity is O(n log n)."
+      ]
+    },
+    {
+      "tag": "heap_sort",
+      "patterns": [
+        "heap sort",
+        "Explain heap sort"
+      ],
+      "responses": [
+        "Heap sort uses a binary heap data structure to sort elements."
+      ]
+    },
+    {
+      "tag": "hashing",
+      "patterns": [
+        "hashing",
+        "Explain hashing"
+      ],
+      "responses": [
+        "Hashing is a technique to uniquely identify a specific object from a group of similar objects."
+      ]
+    },
+    {
+      "tag": "tree",
+      "patterns": [
+        "tree",
+        "Explain tree"
+      ],
+      "responses": [
+        "A tree is a hierarchical data structure with a root node and child nodes."
+      ]
+    },
+    {
+      "tag": "binary_tree",
+      "patterns": [
+        "binary tree",
+        "Explain binary tree"
+      ],
+      "responses": [
+        "A binary tree is a tree where each node has at most two children."
+      ]
+    },
+    {
+      "tag": "bst",
+      "patterns": [
+        "binary search tree",
+        "bst"
+      ],
+      "responses": [
+        "A binary search tree is a binary tree where left child < root < right child."
+      ]
+    },
+    {
+      "tag": "graph",
+      "patterns": [
+        "graph",
+        "Explain graph"
+      ],
+      "responses": [
+        "A graph is a set of nodes connected by edges."
+      ]
+    },
+    {
+      "tag": "dfs",
+      "patterns": [
+        "dfs",
+        "depth first search"
+      ],
+      "responses": [
+        "DFS explores as far as possible along each branch before backtracking."
+      ]
+    },
+    {
+      "tag": "bfs",
+      "patterns": [
+        "bfs",
+        "breadth first search"
+      ],
+      "responses": [
+        "BFS explores all neighbors before moving to the next level."
+      ]
+    },
+    {
+      "tag": "greedy",
+      "patterns": [
+        "greedy algorithm",
+        "greedy"
+      ],
+      "responses": [
+        "Greedy algorithms make locally optimal choices hoping for a global optimum."
+      ]
+    },
+    {
+      "tag": "dp",
+      "patterns": [
+        "dynamic programming",
+        "dp"
+      ],
+      "responses": [
+        "Dynamic Programming solves problems by breaking them down into subproblems and storing results."
+      ]
+    },
+    {
+      "tag": "backtracking",
+      "patterns": [
+        "backtracking"
+      ],
+      "responses": [
+        "Backtracking tries different possibilities and eliminates ones that fail."
+      ]
+    },
+    {
+      "tag": "os",
+      "patterns": [
+        "operating system",
+        "os",
+        "Explain OS"
+      ],
+      "responses": [
+        "An Operating System manages hardware, software, and resources on a computer."
+      ]
+    },
+    {
+      "tag": "process",
+      "patterns": [
+        "process",
+        "what is process in os"
+      ],
+      "responses": [
+        "A process is a program in execution, managed by the OS."
+      ]
+    },
+    {
+      "tag": "thread",
+      "patterns": [
+        "thread",
+        "what is thread in os"
+      ],
+      "responses": [
+        "A thread is a lightweight process and the smallest unit of CPU execution."
+      ]
+    },
+    {
+      "tag": "deadlock",
+      "patterns": [
+        "deadlock",
+        "Explain deadlock"
+      ],
+      "responses": [
+        "Deadlock is a situation where processes are waiting on each other indefinitely."
+      ]
+    },
+    {
+      "tag": "scheduling",
+      "patterns": [
+        "cpu scheduling",
+        "scheduling algorithms"
+      ],
+      "responses": [
+        "CPU scheduling determines which process runs next on the CPU."
+      ]
+    },
+    
+    {
+      "tag": "normalization",
+      "patterns": [
+        "normalization",
+        "database normalization"
+      ],
+      "responses": [
+        "Normalization is the process of organizing data to reduce redundancy in databases."
+      ]
+    },
+    {
+      "tag": "time_complexity_extra31",
+      "patterns": [
+        "time complexity?",
+        "Explain time complexity?",
+        "What is time complexity??"
+      ],
+      "responses": [
+        "Time complexity helps evaluate the performance of an algorithm based on input size. (extended)"
+      ]
+    },
+    {
+      "tag": "space_complexity_extra32",
+      "patterns": [
+        "space complexity?",
+        "Explain space complexity?",
+        "What is space complexity??"
+      ],
+      "responses": [
+        "Space complexity refers to the memory required by an algorithm. (extended)"
+      ]
+    },
+    {
+      "tag": "recursion_extra33",
+      "patterns": [
+        "recursion?",
+        "Explain recursion?",
+        "recursive function?"
+      ],
+      "responses": [
+        "Recursion is a function calling itself to solve smaller instances of a problem. (extended)"
+      ]
+    },
+    {
+      "tag": "stack_extra34",
+      "patterns": [
+        "stack?",
+        "Explain stack?",
+        "LIFO?"
+      ],
+      "responses": [
+        "A stack is a LIFO data structure where elements are added/removed from the top. (extended)"
+      ]
+    },
+    {
+      "tag": "queue_extra35",
+      "patterns": [
+        "queue?",
+        "Explain queue?",
+        "FIFO?"
+      ],
+      "responses": [
+        "A queue is a FIFO data structure where elements are added at rear and removed from front. (extended)"
+      ]
+    },
+    {
+      "tag": "linked_list_extra36",
+      "patterns": [
+        "linked list?",
+        "Explain linked list?",
+        "singly linked list?"
+      ],
+      "responses": [
+        "A linked list is a linear data structure of nodes where each node points to the next. (extended)"
+      ]
+    },
+    {
+      "tag": "array_extra37",
+      "patterns": [
+        "array?",
+        "Explain array?",
+        "what is an array?"
+      ],
+      "responses": [
+        "An array is a collection of items stored at contiguous memory locations. (extended)"
+      ]
+    },
+    {
+      "tag": "binary_search_extra38",
+      "patterns": [
+        "binary search?",
+        "how binary search works?"
+      ],
+      "responses": [
+        "Binary search splits the array in half and searches recursively. Time complexity is O(log n). (extended)"
+      ]
+    },
+    {
+      "tag": "bubble_sort_extra39",
+      "patterns": [
+        "bubble sort?",
+        "Explain bubble sort?"
+      ],
+      "responses": [
+        "Bubble sort repeatedly swaps adjacent elements if they are in the wrong order. (extended)"
+      ]
+    },
+    {
+      "tag": "insertion_sort_extra40",
+      "patterns": [
+        "insertion sort?",
+        "Explain insertion sort?"
+      ],
+      "responses": [
+        "Insertion sort builds the sorted array one element at a time. (extended)"
+      ]
+    },
+    {
+      "tag": "selection_sort_extra41",
+      "patterns": [
+        "selection sort?",
+        "Explain selection sort?"
+      ],
+      "responses": [
+        "Selection sort repeatedly selects the minimum element from unsorted part. (extended)"
+      ]
+    },
+    {
+      "tag": "merge_sort_extra42",
+      "patterns": [
+        "merge sort?",
+        "Explain merge sort?"
+      ],
+      "responses": [
+        "Merge sort is a divide-and-conquer algorithm with O(n log n) time complexity. (extended)"
+      ]
+    },
+    {
+      "tag": "quick_sort_extra43",
+      "patterns": [
+        "quick sort?",
+        "Explain quick sort?"
+      ],
+      "responses": [
+        "Quick sort selects a pivot and partitions the array. Average time complexity is O(n log n). (extended)"
+      ]
+    },
+    {
+      "tag": "heap_sort_extra44",
+      "patterns": [
+        "heap sort?",
+        "Explain heap sort?"
+      ],
+      "responses": [
+        "Heap sort uses a binary heap data structure to sort elements. (extended)"
+      ]
+    },
+    {
+      "tag": "hashing_extra45",
+      "patterns": [
+        "hashing?",
+        "Explain hashing?"
+      ],
+      "responses": [
+        "Hashing is a technique to uniquely identify a specific object from a group of similar objects. (extended)"
+      ]
+    },
+    {
+      "tag": "tree_extra46",
+      "patterns": [
+        "tree?",
+        "Explain tree?"
+      ],
+      "responses": [
+        "A tree is a hierarchical data structure with a root node and child nodes. (extended)"
+      ]
+    },
+    {
+      "tag": "binary_tree_extra47",
+      "patterns": [
+        "binary tree?",
+        "Explain binary tree?"
+      ],
+      "responses": [
+        "A binary tree is a tree where each node has at most two children. (extended)"
+      ]
+    },
+    {
+      "tag": "bst_extra48",
+      "patterns": [
+        "binary search tree?",
+        "bst?"
+      ],
+      "responses": [
+        "A binary search tree is a binary tree where left child < root < right child. (extended)"
+      ]
+    },
+    {
+      "tag": "graph_extra49",
+      "patterns": [
+        "graph?",
+        "Explain graph?"
+      ],
+      "responses": [
+        "A graph is a set of nodes connected by edges. (extended)"
+      ]
+    },
+    {
+      "tag": "dfs_extra50",
+      "patterns": [
+        "dfs?",
+        "depth first search?"
+      ],
+      "responses": [
+        "DFS explores as far as possible along each branch before backtracking. (extended)"
+      ]
+    },
+    {
+      "tag": "bfs_extra51",
+      "patterns": [
+        "bfs?",
+        "breadth first search?"
+      ],
+      "responses": [
+        "BFS explores all neighbors before moving to the next level. (extended)"
+      ]
+    },
+    {
+      "tag": "greedy_extra52",
+      "patterns": [
+        "greedy algorithm?",
+        "greedy?"
+      ],
+      "responses": [
+        "Greedy algorithms make locally optimal choices hoping for a global optimum. (extended)"
+      ]
+    },
+    {
+      "tag": "dp_extra53",
+      "patterns": [
+        "dynamic programming?",
+        "dp?"
+      ],
+      "responses": [
+        "Dynamic Programming solves problems by breaking them down into subproblems and storing results. (extended)"
+      ]
+    },
+    {
+      "tag": "backtracking_extra54",
+      "patterns": [
+        "backtracking?"
+      ],
+      "responses": [
+        "Backtracking tries different possibilities and eliminates ones that fail. (extended)"
+      ]
+    },
+    {
+      "tag": "os_extra55",
+      "patterns": [
+        "operating system?",
+        "os?",
+        "Explain OS?"
+      ],
+      "responses": [
+        "An Operating System manages hardware, software, and resources on a computer. (extended)"
+      ]
+    },
+    {
+      "tag": "process_extra56",
+      "patterns": [
+        "process?",
+        "what is process in os?"
+      ],
+      "responses": [
+        "A process is a program in execution, managed by the OS. (extended)"
+      ]
+    },
+    {
+      "tag": "thread_extra57",
+      "patterns": [
+        "thread?",
+        "what is thread in os?"
+      ],
+      "responses": [
+        "A thread is a lightweight process and the smallest unit of CPU execution. (extended)"
+      ]
+    },
+    {
+      "tag": "deadlock_extra58",
+      "patterns": [
+        "deadlock?",
+        "Explain deadlock?"
+      ],
+      "responses": [
+        "Deadlock is a situation where processes are waiting on each other indefinitely. (extended)"
+      ]
+    },
+    {
+      "tag": "scheduling_extra59",
+      "patterns": [
+        "cpu scheduling?",
+        "scheduling algorithms?"
+      ],
+      "responses": [
+        "CPU scheduling determines which process runs next on the CPU. (extended)"
+      ]
+    },
+    {
+      "tag": "paging_extra60",
+      "patterns": [
+        "paging in os?",
+        "what is paging?"
+      ],
+      "responses": [
+        "Paging is a memory management scheme that eliminates the need for contiguous memory allocation. (extended)"
+      ]
+    },
+    {
+      "tag": "normalization_extra61",
+      "patterns": [
+        "normalization?",
+        "database normalization?"
+      ],
+      "responses": [
+        "Normalization is the process of organizing data to reduce redundancy in databases. (extended)"
+      ]
+    },
+    {
+      "tag": "time_complexity_extra62",
+      "patterns": [
+        "time complexity?",
+        "Explain time complexity?",
+        "What is time complexity??"
+      ],
+      "responses": [
+        "Time complexity helps evaluate the performance of an algorithm based on input size. (extended)"
+      ]
+    },
+    {
+      "tag": "space_complexity_extra63",
+      "patterns": [
+        "space complexity?",
+        "Explain space complexity?",
+        "What is space complexity??"
+      ],
+      "responses": [
+        "Space complexity refers to the memory required by an algorithm. (extended)"
+      ]
+    },
+    {
+      "tag": "recursion_extra64",
+      "patterns": [
+        "recursion?",
+        "Explain recursion?",
+        "recursive function?"
+      ],
+      "responses": [
+        "Recursion is a function calling itself to solve smaller instances of a problem. (extended)"
+      ]
+    },
+    {
+      "tag": "stack_extra65",
+      "patterns": [
+        "stack?",
+        "Explain stack?",
+        "LIFO?"
+      ],
+      "responses": [
+        "A stack is a LIFO data structure where elements are added/removed from the top. (extended)"
+      ]
+    },
+    {
+      "tag": "queue_extra66",
+      "patterns": [
+        "queue?",
+        "Explain queue?",
+        "FIFO?"
+      ],
+      "responses": [
+        "A queue is a FIFO data structure where elements are added at rear and removed from front. (extended)"
+      ]
+    },
+    {
+      "tag": "linked_list_extra67",
+      "patterns": [
+        "linked list?",
+        "Explain linked list?",
+        "singly linked list?"
+      ],
+      "responses": [
+        "A linked list is a linear data structure of nodes where each node points to the next. (extended)"
+      ]
+    },
+    {
+      "tag": "array_extra68",
+      "patterns": [
+        "array?",
+        "Explain array?",
+        "what is an array?"
+      ],
+      "responses": [
+        "An array is a collection of items stored at contiguous memory locations. (extended)"
+      ]
+    },
+    {
+      "tag": "binary_search_extra69",
+      "patterns": [
+        "binary search?",
+        "how binary search works?"
+      ],
+      "responses": [
+        "Binary search splits the array in half and searches recursively. Time complexity is O(log n). (extended)"
+      ]
+    },
+    {
+      "tag": "bubble_sort_extra70",
+      "patterns": [
+        "bubble sort?",
+        "Explain bubble sort?"
+      ],
+      "responses": [
+        "Bubble sort repeatedly swaps adjacent elements if they are in the wrong order. (extended)"
+      ]
+    },
+    {
+      "tag": "insertion_sort_extra71",
+      "patterns": [
+        "insertion sort?",
+        "Explain insertion sort?"
+      ],
+      "responses": [
+        "Insertion sort builds the sorted array one element at a time. (extended)"
+      ]
+    },
+    {
+      "tag": "selection_sort_extra72",
+      "patterns": [
+        "selection sort?",
+        "Explain selection sort?"
+      ],
+      "responses": [
+        "Selection sort repeatedly selects the minimum element from unsorted part. (extended)"
+      ]
+    },
+    {
+      "tag": "merge_sort_extra73",
+      "patterns": [
+        "merge sort?",
+        "Explain merge sort?"
+      ],
+      "responses": [
+        "Merge sort is a divide-and-conquer algorithm with O(n log n) time complexity. (extended)"
+      ]
+    },
+    {
+      "tag": "quick_sort_extra74",
+      "patterns": [
+        "quick sort?",
+        "Explain quick sort?"
+      ],
+      "responses": [
+        "Quick sort selects a pivot and partitions the array. Average time complexity is O(n log n). (extended)"
+      ]
+    },
+    {
+      "tag": "heap_sort_extra75",
+      "patterns": [
+        "heap sort?",
+        "Explain heap sort?"
+      ],
+      "responses": [
+        "Heap sort uses a binary heap data structure to sort elements. (extended)"
+      ]
+    },
+    {
+      "tag": "hashing_extra76",
+      "patterns": [
+        "hashing?",
+        "Explain hashing?"
+      ],
+      "responses": [
+        "Hashing is a technique to uniquely identify a specific object from a group of similar objects. (extended)"
+      ]
+    },
+    {
+      "tag": "tree_extra77",
+      "patterns": [
+        "tree?",
+        "Explain tree?"
+      ],
+      "responses": [
+        "A tree is a hierarchical data structure with a root node and child nodes. (extended)"
+      ]
+    },
+    {
+      "tag": "binary_tree_extra78",
+      "patterns": [
+        "binary tree?",
+        "Explain binary tree?"
+      ],
+      "responses": [
+        "A binary tree is a tree where each node has at most two children. (extended)"
+      ]
+    },
+    {
+      "tag": "bst_extra79",
+      "patterns": [
+        "binary search tree?",
+        "bst?"
+      ],
+      "responses": [
+        "A binary search tree is a binary tree where left child < root < right child. (extended)"
+      ]
+    },
+    {
+      "tag": "graph_extra80",
+      "patterns": [
+        "graph?",
+        "Explain graph?"
+      ],
+      "responses": [
+        "A graph is a set of nodes connected by edges. (extended)"
+      ]
+    },
+    {
+      "tag": "dfs_extra81",
+      "patterns": [
+        "dfs?",
+        "depth first search?"
+      ],
+      "responses": [
+        "DFS explores as far as possible along each branch before backtracking. (extended)"
+      ]
+    },
+    {
+      "tag": "bfs_extra82",
+      "patterns": [
+        "bfs?",
+        "breadth first search?"
+      ],
+      "responses": [
+        "BFS explores all neighbors before moving to the next level. (extended)"
+      ]
+    },
+    {
+      "tag": "greedy_extra83",
+      "patterns": [
+        "greedy algorithm?",
+        "greedy?"
+      ],
+      "responses": [
+        "Greedy algorithms make locally optimal choices hoping for a global optimum. (extended)"
+      ]
+    },
+    {
+      "tag": "dp_extra84",
+      "patterns": [
+        "dynamic programming?",
+        "dp?"
+      ],
+      "responses": [
+        "Dynamic Programming solves problems by breaking them down into subproblems and storing results. (extended)"
+      ]
+    },
+    {
+      "tag": "backtracking_extra85",
+      "patterns": [
+        "backtracking?"
+      ],
+      "responses": [
+        "Backtracking tries different possibilities and eliminates ones that fail. (extended)"
+      ]
+    },
+    {
+      "tag": "os_extra86",
+      "patterns": [
+        "operating system?",
+        "os?",
+        "Explain OS?"
+      ],
+      "responses": [
+        "An Operating System manages hardware, software, and resources on a computer. (extended)"
+      ]
+    },
+    {
+      "tag": "process_extra87",
+      "patterns": [
+        "process?",
+        "what is process in os?"
+      ],
+      "responses": [
+        "A process is a program in execution, managed by the OS. (extended)"
+      ]
+    },
+    {
+      "tag": "thread_extra88",
+      "patterns": [
+        "thread?",
+        "what is thread in os?"
+      ],
+      "responses": [
+        "A thread is a lightweight process and the smallest unit of CPU execution. (extended)"
+      ]
+    },
+    {
+      "tag": "deadlock_extra89",
+      "patterns": [
+        "deadlock?",
+        "Explain deadlock?"
+      ],
+      "responses": [
+        "Deadlock is a situation where processes are waiting on each other indefinitely. (extended)"
+      ]
+    },
+    {
+      "tag": "scheduling_extra90",
+      "patterns": [
+        "cpu scheduling?",
+        "scheduling algorithms?"
+      ],
+      "responses": [
+        "CPU scheduling determines which process runs next on the CPU. (extended)"
+      ]
+    },
+    {
+      "tag": "paging_extra91",
+      "patterns": [
+        "paging in os?",
+        "what is paging?"
+      ],
+      "responses": [
+        "Paging is a memory management scheme that eliminates the need for contiguous memory allocation. (extended)"
+      ]
+    },
+    {
+      "tag": "normalization_extra92",
+      "patterns": [
+        "normalization?",
+        "database normalization?"
+      ],
+      "responses": [
+        "Normalization is the process of organizing data to reduce redundancy in databases. (extended)"
+      ]
+    },
+    {
+      "tag": "time_complexity_extra93",
+      "patterns": [
+        "time complexity?",
+        "Explain time complexity?",
+        "What is time complexity??"
+      ],
+      "responses": [
+        "Time complexity helps evaluate the performance of an algorithm based on input size. (extended)"
+      ]
+    },
+    {
+      "tag": "space_complexity_extra94",
+      "patterns": [
+        "space complexity?",
+        "Explain space complexity?",
+        "What is space complexity??"
+      ],
+      "responses": [
+        "Space complexity refers to the memory required by an algorithm. (extended)"
+      ]
+    },
+    {
+      "tag": "recursion_extra95",
+      "patterns": [
+        "recursion?",
+        "Explain recursion?",
+        "recursive function?"
+      ],
+      "responses": [
+        "Recursion is a function calling itself to solve smaller instances of a problem. (extended)"
+      ]
+    },
+    {
+      "tag": "stack_extra96",
+      "patterns": [
+        "stack?",
+        "Explain stack?",
+        "LIFO?"
+      ],
+      "responses": [
+        "A stack is a LIFO data structure where elements are added/removed from the top. (extended)"
+      ]
+    },
+    {
+      "tag": "queue_extra97",
+      "patterns": [
+        "queue?",
+        "Explain queue?",
+        "FIFO?"
+      ],
+      "responses": [
+        "A queue is a FIFO data structure where elements are added at rear and removed from front. (extended)"
+      ]
+    },
+    {
+      "tag": "linked_list_extra98",
+      "patterns": [
+        "linked list?",
+        "Explain linked list?",
+        "singly linked list?"
+      ],
+      "responses": [
+        "A linked list is a linear data structure of nodes where each node points to the next. (extended)"
+      ]
+    },
+    {
+      "tag": "array_extra99",
+      "patterns": [
+        "array?",
+        "Explain array?",
+        "what is an array?"
+      ],
+      "responses": [
+        "An array is a collection of items stored at contiguous memory locations. (extended)"
+      ]
+    }
+  ]
+}
