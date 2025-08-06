@@ -1,5 +1,11 @@
-import streamlit as st
+# ✅ This works if modules is a sibling of ui
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from modules import study_assistant
+
+import streamlit as st
 
 # Initialize the study assistant
 study_bot = study_assistant.StudyAssistant()
