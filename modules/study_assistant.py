@@ -32,7 +32,7 @@ class StudyAssistant:
 
         return vectorizer, patterns, tags
 
-    def get_response(self, user_input, threshold=0.2):
+    def get_response(self, user_input, threshold=0.7):
         input_vec = self.vectorizer.transform([user_input])
         pattern_vecs = self.vectorizer.transform(self.patterns)
 
@@ -52,4 +52,4 @@ class StudyAssistant:
         input_ids = self.tokenizer.encode(user_input + self.tokenizer.eos_token, return_tensors='pt')
         output_ids = self.model.generate(input_ids, max_length=100, pad_token_id=self.tokenizer.eos_token_id)
         response = self.tokenizer.decode(output_ids[:, input_ids.shape[-1]:][0], skip_special_tokens=True)
-        return response
+        return response 
